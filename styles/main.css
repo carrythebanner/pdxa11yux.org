@@ -35,3 +35,15 @@ a:visited {
   color: var(--link);
   /* TODO: differentiate from non-visited */
 }
+
+header {
+  text-align: center;
+}
+
+img.logo-wide {
+  max-width: 80%;
+}
+
+.calendar-embed {
+  border: 1px solid transparent;
+}
