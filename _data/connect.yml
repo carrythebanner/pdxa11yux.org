@@ -1,3 +1,5 @@
+- name: RSS
+  link: https://pdxa11yux.org/feed.xml
 - name: Meetup
   link: https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/
 - name: Eventbrite
