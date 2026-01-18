@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  'Accessibility book club: "Year of the Tiger" by Alice Wong'
-date:   2026-01-24 16:00:00 -0800
+date:   2026-01-24 16:00
 categories: events
 ---
 

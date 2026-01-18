@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Tiny CSS, Big Impact"
-date:   2026-01-20 17:45:00 -0800
+date:   2026-01-20 17:45
 categories: events
 ---
 

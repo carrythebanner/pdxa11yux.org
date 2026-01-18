@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Making Accessibility the Default: Continuous Accessibility Practices"
-date:   2026-02-17 17:45:00 -0800
+date:   2026-02-17 17:45
 categories: events
 ---
 
