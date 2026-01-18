@@ -1,0 +1,16 @@
+- name: Meetup
+  link: https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/
+- name: Eventbrite
+  link: https://pdxa11yux.eventbrite.com
+- name: Mastodon
+  link: https://mas.to/@pdxa11yux
+- name: Bluesky
+  link: https://bsky.app/profile/pdxa11yux.bsky.social
+- name: LinkedIn
+  link: https://www.linkedin.com/company/pdxa11yux
+- name: YouTube
+  link: https://www.youtube.com/@pdxa11yux
+- name: "A11Y Slack: #a11y-pdx channel" # add quotes to handle : and #
+  link: https://web-a11y.slack.com/archives/CSL4LJDU1
+- name: GitHub
+  link: https://github.com/pdxa11yux
