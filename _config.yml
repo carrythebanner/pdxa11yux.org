@@ -47,8 +47,8 @@ future: true # for publishing upcoming events
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 
-exclude:
-  - README.md
+# exclude:
+#   - README.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - .sass-cache/
