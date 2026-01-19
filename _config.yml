@@ -49,8 +49,8 @@ future: true # for publishing upcoming events
 
 exclude:
   - README.md
-  - Gemfile
-  - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
