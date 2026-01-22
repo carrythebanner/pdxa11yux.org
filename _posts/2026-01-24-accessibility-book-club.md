@@ -11,14 +11,14 @@ categories: events
 
 * <time>Saturday, January 24th, 2026, 4:00pm–5:30pm</time>
 * Hybrid event
-* Location: Cafe Nell, 1987 NW Kearney St, Portland, OR 97209). To join via video call, [RSVP](#rsvp) for the meeting link.
+* Location: Hostel Cafe, 1810 NW Glisan St, Portland, OR 97209. To join via video call, [RSVP](#rsvp) for the meeting link.
 
 ## About
 
 Kick off your new year reading list with the late Alice Wong's memoir <i>Year of the Tiger: An Activist's Life</i>. Find it at your [library*](https://search.worldcat.org/title/1289245073){: rel="external"} or a local bookstore like [Powell's](https://www.powells.com/book/year-of-the-tiger-an-activists-life-9780593315392?condition=Used%20-%20Very%20Good){: rel="external"}.
 
-Join in-person at [Cafe Nell](https://www.cafenell.com/){: rel="external"} in NW Portland, or via video call.
- 
+Join in-person at [Hostel Cafe](https://www.hostelcafepdx.com/){: rel="external"} in NW Portland, or via video call.
+
 *Worldcat is a unified search engine that shows the nearest library that has your item.
  
 
