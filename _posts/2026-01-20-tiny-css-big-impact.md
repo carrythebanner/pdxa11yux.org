@@ -26,6 +26,14 @@ The event begins at 6:00pm; join early, starting at 5:45pm for networking.
 * 6:15–6:45pm Presentation
 * 6:45–7:15pm Q&A and discussion
 
+## Resources
+
+* [Presentation slides][slides]{: rel="external"}
+* Recording coming soon! Watch our [YouTube channel][recording]{: rel="external"} for updates.
+
+[slides]: 			https://www.figma.com/deck/CjllYMniGDofBCB1zfj6QI/Tiny-Css--Big-Impact
+[recording]:		https://www.youtube.com/@pdxa11yux
+
 ## About the presenter
 
 [Mike Mai][speaker]{: rel="external"} is an expert in design systems, web accessibility, HTML/CSS, and typography. His design philosophy is rooted in a fundamental understanding of the web. Mike's passion for typography, cultivated during my BFA in Graphic Design at Massachusetts College of Art and Design, directly informed my decision to pursue web design professionally. He considers typography to be the most critical foundation of any website, given its text-centric nature, making typeface selection and typesetting my first order of business on any new projects.
