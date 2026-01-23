@@ -35,7 +35,7 @@ The event begins at 6:00pm; join early, starting at 5:45pm for networking.
 * 6:15–6:45pm Presentation
 * 6:45–7:15pm Q&A and discussion
 
-## About the presenter
+## About the presenters
 
 [Devon Persing][speaker1]{: rel="external"} is your neighbor to the north in Seattle, WA. Before joining "big" tech as an accessibility specialist around 2012, she worked in "small" tech as a UI designer, front-end web developer, and usability advocate in libraries, higher education, and local government. She has an MS in Information and is disabled, chronically ill, and neurodivergent, and as a result her approach to digital accessibility centers information literacy, organization dynamics, and disability justice. Her current focus as a solo consultant is on helping people do accessibility work that is more holistic, inclusive, cooperative, and sustainable. She wrote a book called [<i>The Accessibility Operations Guidebook</i>][project1]{: rel="external"} with that goal in mind.
 
@@ -45,7 +45,7 @@ Portlander by birth and by choice, [Andrew Hedges][speaker2]{: rel="external"} i
 [project1]: 		https://dpersing.com/book/
 
 [speaker2]: 		https://andrew.hedges.name/
-[project2]: 		https://dpersing.com/book/
+[project2]: 		https://assistivlabs.com/
 
 
 ## Accommodation requests
