@@ -3,6 +3,7 @@ layout: default
 title:  "Tiny CSS, Big Impact"
 date:   2026-01-20 17:45
 categories: events
+short_description: "This talk explores the incredible power of tiny CSS snippets that create big accessibility improvements, proving that sometimes the most impactful code is measured in lines, not libraries."
 ---
 
 # {{ page.title }}
