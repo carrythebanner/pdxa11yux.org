@@ -3,6 +3,7 @@ layout: default
 title:  "Making Accessibility the Default: Continuous Accessibility Practices"
 date:   2026-02-17 17:45
 categories: events
+short_description: "Treating accessibility as a core concern leads to better user experience, reduced risk, and improved business outcomes. But how do you make it the default? Learn how to drive organizational change through routine, metrics, and technology that fits your processes."
 ---
 
 # {{ page.title }}

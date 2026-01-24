@@ -1,8 +1,9 @@
 ---
 layout: default
-title:  'Accessibility book club: "Year of the Tiger" by Alice Wong'
+title:  "Accessibility book club: 'Year of the Tiger' by Alice Wong"
 date:   2026-01-24 16:00
 categories: events
+short_description: "Kick off your new year reading list with the late Alice Wong's memoir, 'Year of the Tiger: An Activist's Life.'"
 ---
 
 # {{ page.title }}

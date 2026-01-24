@@ -8,13 +8,18 @@
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="icon" href="/imgs/favicon.png" type="image/png">
 
-  <meta name="description" content="{{ site.description }}">
+  {% if page.short_description %}
+    {% assign meta_descr = page.short_description %}
+  {% else %}
+    {% assign meta_descr = site.description %}
+  {% endif %}
+
+  <meta name="description" content="{{ meta_descr }}">
   <meta name="keywords" content="{{ site.keywords }}">
 
-  <!-- TODO are these necessary if standard meta is provided, as above? -->
-  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="website">
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ meta_descr }}">
 
   <!-- Verification link for Mastodon -->
   {% if site.verificationURL %}
