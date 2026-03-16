@@ -34,7 +34,7 @@ If you have any accommodation requests, don't hesitate to [contact us](/contact.
 
 ## RSVP
 
-RSVP with one of the following for the meeting's video link: 
+An RSVP is required for this event. Please RSVP with one of the following to attend:
 
 * [RSVP on Meetup][rsvp-meetup]{: rel="external"}
 * [RSVP on Eventbrite][rsvp-eventbrite]{: rel="external"}
