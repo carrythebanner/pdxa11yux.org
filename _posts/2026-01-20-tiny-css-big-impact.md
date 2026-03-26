@@ -30,10 +30,10 @@ The event begins at 6:00pm; join early, starting at 5:45pm for networking.
 ## Resources
 
 * [Presentation slides][slides]{: rel="external"}
-* Recording coming soon! Watch our [YouTube channel][recording]{: rel="external"} for updates.
+* [Recording][recording]{: rel="external"}
 
 [slides]: 			https://www.figma.com/deck/CjllYMniGDofBCB1zfj6QI/Tiny-Css--Big-Impact
-[recording]:		https://www.youtube.com/@pdxa11yux
+[recording]:		https://www.youtube.com/watch?v=3evzleHla1k
 
 ## About the presenter
 
