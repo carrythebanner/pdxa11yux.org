@@ -10,7 +10,7 @@ short_description: "Lead UX Researcher Cindy Merrill shares insights from workin
 
 ## Time and location
 
-* <time>Wednesday, October 7th, 2026, 6:00pm–7:30pm</time>
+* <time>Wednesday, October 7th, 2026, 6:00pm–7:45pm</time>
 * Hybrid event
 * Location: Multnomah County Library - Central Branch: Large community room 1A, 801 SW 10th Ave, Portland, OR 97205; [RSVP](#rsvp) is appreciated
 
